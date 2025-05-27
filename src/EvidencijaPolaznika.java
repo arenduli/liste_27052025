@@ -1,9 +1,10 @@
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class EvidencijaPolaznika {
 
-    private static ArrayList<Polaznik> polaznici = new ArrayList<>();
+    private static List<Polaznik> polaznici = new ArrayList<>();
 
     public static void main(String[] args) {
 
